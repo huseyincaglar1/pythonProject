@@ -7,8 +7,6 @@ print(type(sayi))
 class sinif:
     sayi2 = 8.6
 
-t = sinif
 print(type(sinif))
-print(type(t))
-print(t.sayi2)
-print(type(t.sayi2))
+print(sinif.sayi2)
+print(type(sinif.sayi2))
