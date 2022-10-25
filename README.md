@@ -1,1 +1,1 @@
-# python_programlama egitimi
+# python_programlama dersi örnekleri 
